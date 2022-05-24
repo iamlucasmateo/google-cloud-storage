@@ -1,0 +1,8 @@
+Library:
+
+pip install --upgrade google-cloud-storage
+
+To use service account login:
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/lucas-mateo/Desktop/CODE/learn/google-cloud-storage/service-account.json"
+
